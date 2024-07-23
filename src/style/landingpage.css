@@ -1,0 +1,50 @@
+.myBG{
+    height: 200vh;
+    background: url("../assets/movienetAsset/bgasset.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.trending{
+    height: auto;
+    background: url("../assets/movienetAsset/trendasset.jpg");
+    background-size: cover;
+}
+
+.superhero{
+    height: auto;
+    background: url("../assets/movienetAsset/trendasset.jpg");
+    background-size: cover;
+}
+
+.movieImage{
+    height: auto;
+}
+
+.images{
+    width: 300px;
+    height: 200px;
+}
+
+.padimage{
+    padding: 5px;
+}
+
+.sheetmargin{
+    padding: 50px 10px;
+}
